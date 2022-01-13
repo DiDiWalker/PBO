@@ -15,6 +15,7 @@ public class Orangutanganja {
      */
     public static void main(String[] args) {
 System.out.println("Orang Utan Ganja");
+System.out.println("wkwkwkkw");
         // TODO code application logic here
     }
     
